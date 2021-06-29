@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+}
+body{
+/* width :100%; */
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: #5C8D89;
+}
+header{
+
+    width: 80%;
+    background-color: #A7D7C5;
+     margin:-5px; 
+     text-align: center;
+
+}
+ul{
+    list-style: none;
+    margin-left: 5px;
+
+}
+.navHeader{
+/* display: inline; */
+
+}
+.ulhead li{
+    display: inline-block;
+    margin-right: 66px;
+}
+.art1{
+margin:20 auto;
+
+}
+.marTo{
+    margin-top: 30px;
+}
+.divp3{
+    /* margin-top: 30px; */
+display:inline-block
+
+}
+
+.marPic{
+    width: 100%;
+    margin-top:69px;
+}
+
+.marPic div{
+    display: inline-block;
+    
+}
+.pic{
+    width: 50%;
+    height: 100%;
+}
+
+p{
+    width:370px;
+    overflow: scroll ;
+        background-color: blanchedalmond;
+        height: 370px;
+}
+.marPic{
+justify-content: space-between;
+
+}
+.par{
+    height: 378px;
+}
+button:hover{
+    background-color: crimson;
+    
+}
+button{
+    
+    width: 100px;
+    height:40px;
+}
+
