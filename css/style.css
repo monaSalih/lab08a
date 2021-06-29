@@ -11,7 +11,7 @@ header{
 
     width: 80%;
     background-color: #A7D7C5;
-     margin:-5px; 
+     margin:-10px; 
      text-align: center;
 
 }
@@ -43,7 +43,7 @@ display:inline-block
 
 .marPic{
     width: 100%;
-    margin-top:69px;
+    margin-top:39px;
 }
 
 .marPic div{
@@ -59,7 +59,7 @@ p{
     width:370px;
     overflow: scroll ;
         background-color: blanchedalmond;
-        height: 370px;
+        height: 324px;
 }
 .marPic{
 justify-content: space-between;
@@ -67,10 +67,14 @@ justify-content: space-between;
 }
 .par{
     height: 378px;
+    padding: 9px;
 }
 button:hover{
     background-color: crimson;
     
+}
+.marpic img{
+    height: 409px;
 }
 button{
     
